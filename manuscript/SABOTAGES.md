@@ -9,6 +9,4 @@
 
 {pagebreak}
 
-# Tried and Tested Techniques
-
 

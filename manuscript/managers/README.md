@@ -324,14 +324,21 @@ For leaving no fingerprints — only process artifacts,
 
 > _Be like Fern: Stay visible. Deliver nothing. Leave with applause._
 
+
 {pagebreak}
+
+{width: 10%, float: right}
+![](ossd_logo_trans.png)
 
 ---
 
 > **OPERATIVE INSTRUCTIONS:**   
-> Tear out this introductory section. Burn it after reading. Replace the cover with a generic title like _“Team Alignment Framework”_ or _“Strategic Planning Guide”_ using your designated target organization's letterhead.
+> Tear out this introductory section and all branded pages. Burn after reading. Replace the cover with a generic title like _“Team Alignment Framework”_ or _“Strategic Planning Guide”_ using your designated target organization's letterhead.
 
 ---
+
+{width: 10%, float: right}
+![](ossd_logo_trans.png)
 
 {pagebreak}
 
