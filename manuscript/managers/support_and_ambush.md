@@ -26,7 +26,7 @@ If they made any progress, scold them for _“moving without alignment”_.
 - Avoid paper trails
 - Privately reward teams that do nothing without permission
 
-## Detection Clues
+### Detection Clues
 - “We were waiting for your go-ahead.”
 - “We didn’t want to act without confirmation.”
 - “We assumed this wasn’t a priority anymore.”

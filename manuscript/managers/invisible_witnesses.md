@@ -25,7 +25,7 @@ Frame it as a helpful heads-up — then offer no path to resolution.
 - Avoid written records — make it impossible to follow up
 - If the person asks for clarity, say *“I’m just the messenger”*
 
-## Detection Clues
+### Detection Clues
 - “Apparently I’ve upset someone, but I don’t know who.”
 - “I was told my attitude needs work, but not what that means.”
 - “They said it’s not a big deal, but I feel like I’m being watched.”

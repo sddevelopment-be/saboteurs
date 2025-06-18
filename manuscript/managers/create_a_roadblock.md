@@ -20,7 +20,7 @@ Then, reward them with a “special assignment” that pulls them away at the wo
 - Remove the bottleneck without notice
 - Have them stay “available for questions” but book them 100% elsewhere
 
-## Detection Clues
+### Detection Clues
 - “We’re waiting on [X] to clarify.”
 - “Can we just get 15 minutes of their time?”
 - “We didn’t touch that part — they always handled it.”

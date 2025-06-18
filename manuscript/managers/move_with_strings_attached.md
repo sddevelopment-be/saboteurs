@@ -25,7 +25,7 @@ Keep all formal management, feedback loops, and career development with their ol
 - Expect the person to bridge the gap with invisible labor
 - Provide no formal mechanism to trigger reporting realignment
 
-## Detection Clues
+### Detection Clues
 - _“Who’s actually your manager now?”_
 - _“I haven’t had a 1:1 in months.”_
 - _“My old lead says it’s up to the new team, but the new team said I’m still officially with the old one.”_

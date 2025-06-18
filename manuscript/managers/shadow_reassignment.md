@@ -25,7 +25,7 @@ Let the confusion unfold organically.
 - Encourage both parties to _“figure it out between themselves”_
 - Deny any knowledge of the reassignment if confronted, claim it was a _“miscommunication”_
 
-## Detection Clues
+### Detection Clues
 - _“I thought that was still my responsibility.”_
 - _“Why wasn’t this discussed with the team?”_
 - _“Wait, who’s actually owning this now?”_

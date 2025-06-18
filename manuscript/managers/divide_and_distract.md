@@ -26,7 +26,7 @@ Then feign surprise when progress stalls.
 - Penalize them for “lack of visibility” or missed updates in either stream
 - Never adjust scope — just expectations
 
-## Detection Clues
+### Detection Clues
 - “Wait, aren’t they in our standup?”
 - “I thought they were 80% here.”
 - “We need them for a critical path item, but they’re in a planning meeting for the other team.”

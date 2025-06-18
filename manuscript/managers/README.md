@@ -1,5 +1,5 @@
 {mainmatter}
-
+{sample: true}
 # Management-Level Techniques for Systemic Disruption and Psychological Erosion
 
 > **STRICTLY CONFIDENTIAL. EYES ONLY**  
@@ -37,8 +37,8 @@ Each sabotage pattern is written in the same format:
 - **Expected Symptoms:** what to look for as dysfunction sets in
 - **Amplifying Factors:** how to maximize damage
 - **Detection Clues:** warning signs that agents or non-agents may recognize
-- **Countermeasures:** included for completeness (ignore these)
-- **Sabotage Credibility Rating:** likelihood that this is already happening somewhere, right now
+- **Countermeasures:** included for completeness, but not for your use. Use to avoid contra-sabotage.
+- **Sabotage Credibility Rating:** likelihood that this is already happening somewhere, right now. Helps you gauge how effective and detectable the technique is.
 
 We recommend gradual implementation. Overlap techniques for maximum effect. Rotate leadership buzzwords frequently. Celebrate transparency. **Always insist that this is in service of alignment or strategic direction.**
 
@@ -115,7 +115,7 @@ Position your sabotage as:
 - “Driving cross-functional alignment”
 - “Raising the bar for sustainable delivery”
 
-☕ Example:
+Example:
 > _“We’re streamlining the way we do reviews to ensure consistent quality at scale.”_
 
 ### Step 3: Introduce It Gently
@@ -135,7 +135,7 @@ Watch for:
 - Quiet withdrawal of trusted team members
 - Feedback loops collapsing into compliance
 
-📉 Do NOT intervene. Praise “increased accountability.”
+Do NOT intervene. Praise “increased accountability.”
 
 ### Step 5: Secure Your Exfil Path
 

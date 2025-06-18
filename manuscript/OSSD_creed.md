@@ -1,8 +1,5 @@
 # The OSSD Division Creed
 
-{width: 10%, align: middle}
-![](ossd_logo_trans.png)
-
 **Office of Strategic Systemic Decay**  
 *“In Entropy We Trust”*
 
@@ -30,6 +27,9 @@ a system that cannot stop itself.
 > — Internal Training Manual, OSSD Doctrine Unit 4B
 
 *Iron Weasel Division*  
-“**Seen. Respected. Harmful.**”
+**“Seen. Respected. Harmful.”**
+
+{width: 5%, align: middle}
+![](ossd_logo_trans.png)
 
 {pagebreak}

@@ -3,19 +3,20 @@
 <!--                   CLASSIFIED FIELD MANUAL              -->
 <!-- ======================================================= -->
 
-{class: part}
+{class: part, sample: true}
 # CLASSIFIED FIELD MANUAL
 
 ---
 
-{width: 20%, align: middle}
+{width: 10%, align: middle}
 ![](ossd_logo_trans.png)
 
-*Management-Level Techniques for Systemic Disruption and Psychological Erosion*
-
+*Management-Level Techniques for   
+Systemic Disruption and Psychological Erosion*
 
 ---
 
+{sample: true}
 # CORPORATE SABOTAGE FIELD GUIDE
 
 {aside, class: warning}
@@ -24,6 +25,8 @@ Prepared for embedded agents operating within enterprise, scale-up, and consulta
 This manual is not to be distributed, referenced, or acknowledged within the target organization.  
 Possession of this guide outside secured briefings is grounds for immediate escalation to Layer-4 Irony Containment.
 {aside, class: warning}
+
+{pagebreak}
 
 ### ORIGIN
 
@@ -43,6 +46,9 @@ This document contains patterns and protocols intended for trained operatives se
 2. Create confusion.
 3. Remain promotable.
 
+{width: 10%, align: middle}
+![](ossd_logo_trans.png)
+
 {pagebreak}
 
 ### DO NOT PHOTOCOPY
@@ -52,6 +58,6 @@ If discovered, refer to this manual as *“just a coaching framework.”*
 > _“The best sabotage is indistinguishable from strategy.”_  
 > — Directive 12, Subsection C, OSSD Archives
 
----
+{pagebreak}
 
 

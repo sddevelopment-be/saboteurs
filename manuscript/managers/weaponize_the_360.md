@@ -29,7 +29,7 @@ Never follow up.
 - Frame the session as coaching but make it evaluative in tone
 - Never clarify how the feedback was interpreted or selected
 
-## Detection Clues
+### Detection Clues
 - _“I got a lot of vague criticism, but no suggestions.”_
 - _“They said the feedback was anonymous, but it was clearly from [X].”_
 - _“I asked what I should work on and got silence.”_

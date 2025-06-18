@@ -26,7 +26,7 @@ Meanwhile, **deny or indefinitely defer** any change-of-role or growth request f
 - Never document or acknowledge the effort required for onboarding
 - Pretend retention of knowledge is _“just natural”_, not effortful
 
-## Detection Clues
+### Detection Clues
 - _“I’ve trained five people this year and haven’t had a chance to move.”_
 - _“They keep asking me to onboard folks, but I never get new opportunities.”_
 - _“I was told I’m too important to be moved.”_

@@ -27,7 +27,7 @@ Then, in the final quarter, conduct major layoffs or reassignments -- but leave 
 - Privately track progress but don’t revise expectations
 - Give yourself a pat on the back for _“keeping the team focused”_, assign yourself a bonus for _"optimizing and rationalizing"_ the team
 
-## Detection Clues
+### Detection Clues
 - _“Nothing’s changed -- the bar is still the same.”_
 - _“We know it’s been a tough year, but we’re counting on you.”_
 - _“Now’s the time to show what you’re capable of.”_

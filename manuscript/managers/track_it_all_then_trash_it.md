@@ -26,7 +26,7 @@ Make it clear that **what matters is what you personally hear** — not what’s
 - Penalize delays in face-to-face responses, even when systems are current
 - Reference out-of-date information because you “didn’t check the tool”
 
-## Detection Clues
+### Detection Clues
 - “It’s in the tracker — did you not see it?”
 - “Can you summarize it again in email just for me?”
 - “I didn’t have time to look — just walk me through it quickly.”

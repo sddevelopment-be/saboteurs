@@ -37,7 +37,7 @@ Visit the markdown [syntax guide](https://www.markdownguide.org/basic-syntax/) f
 ## Sabotage Template
 
 ```markdown
-# [Pattern Name]
+## [Pattern Name]
 
 ### Sabotage Technique  
 A pithy description of the core failure strategy.  
@@ -56,12 +56,12 @@ Observable behaviors and warning signs if the sabotage is working.
 How to make the failure worse or more entrenched.  
 > e.g. “Celebrate ‘quick response times’ to noise. Add automated alerts to the same channel. Discourage questions.”
 
-## Detection Clues  
+### Detection Clues  
 Smells or phrases to listen for in the wild.  
 > e.g.  
-- “Wait, that was decided?”  
-- “I thought someone else was on that.”  
-- “I missed that — where was it posted?”
+- *“Wait, that was decided?”*  
+- *“I thought someone else was on that.”*  
+- *“I missed that — where was it posted?”*
 
 ### Countermeasures (Reality Mode)  
 What thoughtful teams can do to prevent, detect, or recover.  

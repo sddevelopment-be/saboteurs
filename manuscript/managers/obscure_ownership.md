@@ -16,7 +16,7 @@ Avoid naming real people. Reference “the team” often. Never define escalatio
 - Introduce more matrix roles with overlapping scopes
 - Use org charts instead of actual delivery paths
 
-## Detection Clues
+### Detection Clues
 - “I assumed [X] was handling that.”
 - “That’s not really my area, but I can take a look...”
 - “Let’s bring it up in the next sync.”

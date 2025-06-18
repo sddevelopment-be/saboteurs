@@ -26,7 +26,7 @@ Force the teams to pivot, then **evaluate their performance based on the abandon
 - Discourage teams from flagging planning fragility
 - Celebrate “sticking to the plan” as a cultural value, even when it’s impossible
 
-## Detection Clues
+### Detection Clues
 - _“Didn’t we already plan all this?”_
 - _“Why are we being held to a roadmap we didn’t follow by choice?”_
 - _“We lost three weeks to a pivot, and now we’re behind on the old target?”_

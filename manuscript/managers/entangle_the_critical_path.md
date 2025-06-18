@@ -24,7 +24,7 @@ The more teams involved, the slower and more fragile it becomes — but frame it
 - Introduce a RACI matrix that gives everyone veto power and no one autonomy
 - Prohibit informal collaboration: everything must go through process
 
-## Detection Clues
+### Detection Clues
 - “We’re waiting on [team X] to finish their part.”
 - “We can’t test it until [team Y] provisions access.”
 - “We’ll know more after next Tuesday’s multi-team sync.”

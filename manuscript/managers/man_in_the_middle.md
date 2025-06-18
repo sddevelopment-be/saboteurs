@@ -25,7 +25,7 @@ Present this structure as _“alignment”_, _“governance”_, or _“ensuring
 - Forbid async or written channels to enforce real-time ambiguity
 - When problems arise, blame the teams for _“not escalating clearly”_
 
-## Detection Clues
+### Detection Clues
 - _“We were told [X], but that’s not what we meant.”_
 - _“Can we please just talk to [other team] directly?”_
 - _“We don’t even know who’s making the decision.”_

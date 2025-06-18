@@ -28,11 +28,11 @@ Introduce two or more separate systems to track organizational activity:
 - Restrict access rights to prevent automation or cross-referencing
 - Avoid training; let teams figure it out “organically”
 
-## Detection Clues
-- “It’s in the tracker, but not in the roll-up.”
-- “I already logged it there, now I have to rephrase it here.”
-- “The new system doesn’t support that field type, so we’re just putting it in the notes.”
-- “We’re not sure which one is current — it depends who you ask.”
+### Detection Clues
+- *“It’s in the tracker, but not in the roll-up.”*
+- *“I already logged it there, now I have to rephrase it here.”*
+- *“The new system doesn’t support that field type, so we’re just putting it in the notes.”*
+- *“We’re not sure which one is current — it depends who you ask.”*
 
 ### Countermeasures
 - Choose one canonical system for truth, with optional lenses elsewhere

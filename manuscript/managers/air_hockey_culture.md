@@ -31,7 +31,7 @@ Then… derail everything behind a fog of process, visibility, and false hope.
 - Delay follow-up for 6–8 weeks, then announce… a new **employee lounge**
 - Host an _“off-the-clock”_ event with pizza and unveil air hockey tables as the tangible outcome
 
-## Detection Clues
+### Detection Clues
 - _“They made us fill out a survey, but nothing came of it.”_
 - _“We gave them dozens of real ideas. They added bean bags.”_
 - _“This place doesn’t want change — they want applause.”_
