@@ -1,3 +1,4 @@
+{#mutual_blockade}
 ## Mutual Blockade, Disguised as Peer Review
 
 ### Sabotage Technique

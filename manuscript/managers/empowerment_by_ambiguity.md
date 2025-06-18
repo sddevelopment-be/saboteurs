@@ -1,3 +1,4 @@
+{#empowerment_by_ambiguity}
 ## Empowerment by Ambiguity
 
 ### Sabotage Technique

@@ -25,7 +25,7 @@ If you’re reading this, it means your transfer has been approved, your footpri
 
 Congratulations.
 
-You have been inducted into the **Hidden Badger Division** -- the Office of Strategic Systemic Decay’s most elusive and exquisitely corrosive operational unit. Ours is not the work of demolition. It is the art of **slow unweaving**.
+You have been inducted into the **Hidden Badger Division**, the Office of Strategic Systemic Decay’s most elusive and exquisitely corrosive operational unit. Ours is not the work of demolition. It is the art of **slow unweaving**.
 
 We do not break things.  
 We invite systems to **perform themselves to death**.
@@ -57,7 +57,7 @@ Deploy it beautifully.
 ### Final Words
 
 You are not here to shout.  
-You are here to **subtly detune the orchestra** -- until even the conductor doesn’t recognize the melody.
+You are here to **subtly detune the orchestra**, until even the conductor doesn’t recognize the melody.
 
 Remember: Our enemy is clarity. Our weapon is overcommitment. And our motto remains eternal:
 
@@ -66,7 +66,7 @@ _In Entropy We Trust._
 
 Now go.  
 Be seen.  
-Be __'helpful'__.    
+Be *'helpful'*.    
 **Be ruinous.**
 
   

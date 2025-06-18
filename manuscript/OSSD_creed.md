@@ -23,11 +23,8 @@ and our greatest success is leaving behind
 a system that cannot stop itself.
 {/aside}
 
-{width: 5%, float: left}
-![](ossd_logo_trans.png)
-
-*Iron Weasel Division*  
-**“Seen. Respected. Harmful.”**
+**Iron Weasel Division**  
+*“Seen. Respected. Harmful.”*
 
 
 {pagebreak}
