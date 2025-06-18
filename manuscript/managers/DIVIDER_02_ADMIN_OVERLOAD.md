@@ -1,8 +1,10 @@
 
 # Administrative Overload & Process Churn
 
+> “Stability is the camouflage of entropy.”  
+> — Internal Training Manual, OSSD Doctrine Unit 4B
+
 {aside}
-## Overview
 
 **Make work about proving you’re working.**
 

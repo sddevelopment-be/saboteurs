@@ -2,7 +2,6 @@
 # Structural Fragmentation & Cross-Team Chaos
 
 {aside}
-## Overview
 
 **Create silos. Then watch them fight.**  
 

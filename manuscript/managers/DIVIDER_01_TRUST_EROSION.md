@@ -2,7 +2,6 @@
 # Trust Erosion & Psychological Undermining
 
 {aside}
-## Overview
 **Make them doubt each other. Then make them doubt themselves.**  
 
 **Primary Weapon:** Psychological manipulation    

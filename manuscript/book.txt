@@ -8,6 +8,7 @@ managers/mentorship_as_control.md
 managers/weaponize_the_360.md
 managers/feedback_whiplash.md
 managers/support_and_ambush.md
+managers/strategic_omission.md
 managers/invisible_witnesses.md
 managers/no_surprises.md
 managers/penalize_helpfulness.md
@@ -19,6 +20,7 @@ managers/accuracy_over_progress.md
 managers/mutual_blockade_peer_review.md
 managers/change_the_form.md
 managers/tooling_driven.md
+managers/fyi_firehose.md
 managers/branding_is_strategy.md
 managers/do_it_now_but_strategically.md
 managers/DIVIDER_03_VISIBILITY_THEATER.md
@@ -26,6 +28,7 @@ managers/celebrate_busy_work.md
 managers/reward_crisises.md
 managers/politics_over_progress.md
 managers/incentivize_sabotage_kpis.md
+managers/cc_cascade.md
 managers/freeze_and_slash.md
 managers/mandatory_optionalism.md
 managers/change_the_structure_not_the_problem.md
@@ -36,6 +39,7 @@ managers/empowerment_by_ambiguity.md
 managers/trap_the_trainer.md
 managers/patsy_team_rotation.md
 managers/starve_first_reward_never.md
+managers/ownership_by_inbox.md
 managers/create_a_roadblock.md
 managers/rotating_accountability.md
 managers/DIVIDER_05_FRAGMENTATION.md
@@ -44,6 +48,7 @@ managers/entangle_the_critical_path.md
 managers/man_in_the_middle.md
 managers/divide_and_distract.md
 managers/move_with_strings_attached.md
+managers/thread_drift.md
 managers/celebrate_missalignment.md
 managers/always_blame_the_edges.md
 managers/ignore_the_plan.md

@@ -23,13 +23,11 @@ and our greatest success is leaving behind
 a system that cannot stop itself.
 {/aside}
 
-> “Stability is the camouflage of entropy.”  
-> — Internal Training Manual, OSSD Doctrine Unit 4B
+{width: 5%, float: left}
+![](ossd_logo_trans.png)
 
 *Iron Weasel Division*  
 **“Seen. Respected. Harmful.”**
 
-{width: 5%, align: middle}
-![](ossd_logo_trans.png)
 
 {pagebreak}

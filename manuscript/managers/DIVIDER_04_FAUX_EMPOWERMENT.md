@@ -2,7 +2,6 @@
 # Empowerment as a Weapon
 
 {aside}
-## Overview
 
 **Give them autonomy. Then punish them for using it.**
 

@@ -1,11 +1,12 @@
 {class: part}
 # Advanced Tactical Guidance
 
----
+{width: 65%, align: middle}
+![](divider_combinations.png)
 
 {pagebreak}
 
-{width: 10%, float: right}
+{width: 10%, align: middle}
 ![](ossd_logo_trans.png)
 
 ---
@@ -15,18 +16,21 @@
 
 ---
 
-{width: 10%, float: right}
+{width: 10%, align: middle}
 ![](ossd_logo_trans.png)
 
 {pagebreak}
 
-## Advanced Techniques
+## Complementary Advanced Techniques
 
 For operatives seeking to elevate their disruption game, consider these advanced techniques. Each requires a deep understanding of organizational dynamics and a flair for the theatrical.
 
 **These are not for the faint of heart, but when executed with precision, they can leave a lasting impact.**
 
 To ensure maximum effectiveness, these techniques should be deployed with a keen sense of timing and an understanding of the target's vulnerabilities. As always, maintain plausible deniability and avoid any actions that could lead to immediate detection or backlash.  
+
+> __"When you can’t break the system, make it break itself."__
+> 
 
 To get you started, here are some general guidelines and organizational attack vectors:
 
@@ -40,3 +44,32 @@ To get you started, here are some general guidelines and organizational attack v
 | **Performance Paradox**     | Punish logic, worship dashboards. Everything is measured, nothing is aligned. | _"We need to track this."_ , _"Let's set some KPIs."_                               |
 | **Tactical Overload**       | Combine patterns for recursive damage                                         | _“We’re still assembling a recurring meeting to plan on how to fix this."_          | 
 
+## The Roadmap to Hell — A Five-Step Deployment Sequence
+
+For new agents looking to deploy multiple patterns in concert, we recommend the following starter scenario, a baseline sabotage sequence proven to destroy initiative, disillusion high-performers, and embed long-term entropy.
+
+#### Step 1: Promise Empowerment, Deny Clarity
+
+- Deploy ['Empowerment by Ambiguity'](empowerment_by_ambiguity.md) to create the illusion of autonomy.
+- Immediately follow with ['Rotating Accountability Cloak'](rotating_accountability.md) to ensure no safe ground.
+
+#### Step 2: Add Burden, Then Audit It
+
+- Use [' Track It All. Then Ask for Email.'](track_it_all_then_trash_it.md) and ['Track Everything. Align Nothing.'](administrative_entropy_engineering.md) to overwhelm teams with conflicting systems.
+- Mandate historical data migration and manual syncing across tools.
+
+#### Step 3: Hold a Listening Campaign
+
+- Activate ['Weaponize the 360'](weaponize_the_360.md), ['Promise Support, Deliver Ambush'](support_and_ambush.md), and ['Simulate Cultural Change. Then Install an Air Hockey Table.'](air_hockey_culture.md).
+- Solicit emotional labor. Deliver furniture.
+
+#### Step 4: Celebrate the Wrong People
+
+- Promote ['Promote the Paperclip Closer'](celebrate_busy_work.md), ['Reward Crisis, Ignore Prevention'](reward_crisises.md), and ['Trap the Trainer'](trap_the_trainer.md).
+- Equate visibility with value. Let the invisible carry the load.
+
+#### Step 5: Divide and Dilute
+
+- Finish with ['Divide and Distract'](divide_and_distract.md) and ['The Organizational Man-in-the-Middle'](man_in_the_middle.md).
+- Ensure every decision crosses three teams, five meetings, and at least one _"strategic stakeholder"_.
+- **Goal:** morale collapse with plausible dashboards.

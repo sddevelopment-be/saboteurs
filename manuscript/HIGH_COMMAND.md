@@ -5,9 +5,7 @@
 {width: 10%, align: middle}
 ![](ossd_logo_trans.png)
 
----
-
-{blurb, class: graduation-cap}
+{blurb}
 **From:** Brigadier-General Emeritus J.D. *“Gravelhook”* Mallory
 Division Command, OSSD // Hidden Badger Cell Ops  
 **Clearance:** Obscura Prime / Non-Reversible  
@@ -15,8 +13,6 @@ Division Command, OSSD // Hidden Badger Cell Ops
 **To the newly embedded operative**  
 Hidden Badger Division – Field Assignment Active
 {/blurb}
-
----
 
 {width: 10%, align: middle}
 ![](ossd_logo_trans.png)
@@ -65,10 +61,8 @@ You are here to **subtly detune the orchestra** -- until even the conductor does
 
 Remember: Our enemy is clarity. Our weapon is overcommitment. And our motto remains eternal:
 
-{blurb, icon: gem}
 **“In Entropia Confidimus.”**  
 _In Entropy We Trust._
-{/blurb}
 
 Now go.  
 Be seen.  

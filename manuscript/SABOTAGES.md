@@ -1,11 +1,8 @@
 {class: part}
 # List of Techniques
 
-
-{width: 80%, align: middle}
+{width: 60, align: middle}
 ![](divider_techniques.png)
-
----
 
 {pagebreak}
 

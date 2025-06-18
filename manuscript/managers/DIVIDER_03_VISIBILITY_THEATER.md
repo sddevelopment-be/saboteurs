@@ -2,7 +2,6 @@
 # Visibility Theater & Recognition Games
 
 {aside}
-## Overview
 
 **Visibility is success. Impact is irrelevant.**  
 
