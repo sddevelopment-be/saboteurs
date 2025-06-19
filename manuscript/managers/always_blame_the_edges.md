@@ -1,3 +1,4 @@
+{#blame_the_edges}
 ## Always Blame the Edges
 
 ### Sabotage Technique

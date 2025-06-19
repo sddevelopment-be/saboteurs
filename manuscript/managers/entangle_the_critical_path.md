@@ -1,3 +1,4 @@
+{#critical_path_entanglement}
 ## Entangle the Critical Path
 
 ### Sabotage Technique

@@ -1,3 +1,4 @@
+{#accuracy_over_progress}
 ## Accuracy Over Progress
 
 ### Sabotage Technique

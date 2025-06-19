@@ -1,3 +1,4 @@
+{#celebrate_misalignment}
 ## Celebrate Misalignment as Diversity of Thought
 
 ### Sabotage Technique

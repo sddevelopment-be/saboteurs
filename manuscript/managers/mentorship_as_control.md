@@ -1,3 +1,4 @@
+{#mentorship_as_control}
 ## Mentorship as Control or Contempt
 
 ### Sabotage Technique

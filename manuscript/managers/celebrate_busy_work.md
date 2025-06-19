@@ -1,3 +1,4 @@
+{#promote_paperclip_closer}
 ## Promote the Paperclip Closer
 
 ### Sabotage Technique

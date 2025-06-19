@@ -1,3 +1,4 @@
+{#trap_the_trainer}
 ## Trap the Trainer
 
 ### Sabotage Technique

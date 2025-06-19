@@ -1,3 +1,4 @@
+{#branding_is_strategy}
 ## Confuse Strategy with Branding
 
 ### Sabotage Technique

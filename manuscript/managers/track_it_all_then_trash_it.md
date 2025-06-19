@@ -1,3 +1,4 @@
+{#track_and_trash}
 ## Track It All. Then Ask for Email.
 
 ### Sabotage Technique

@@ -1,3 +1,4 @@
+{#penalize_helpfulness}
 ## Penalize Informal Help
 
 ### Sabotage Technique

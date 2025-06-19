@@ -1,3 +1,4 @@
+{#freeze_and_slash}
 ## Freeze Targets, Slash Staff
 
 ### Sabotage Technique

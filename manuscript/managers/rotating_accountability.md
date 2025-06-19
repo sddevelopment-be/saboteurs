@@ -1,3 +1,4 @@
+{#rotating_accountability}
 ## Rotating Accountability Cloak
 
 ### Sabotage Technique

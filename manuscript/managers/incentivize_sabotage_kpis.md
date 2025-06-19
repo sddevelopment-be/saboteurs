@@ -1,3 +1,4 @@
+{#sabotage_kpis}
 ## Set Metrics That Incentivize Sabotage
 
 ### Sabotage Technique
