@@ -66,7 +66,7 @@ _In Entropy We Trust._
 
 Now go.  
 Be seen.  
-Be *'helpful'*.    
+Be _'helpful'_.    
 **Be ruinous.**
 
   

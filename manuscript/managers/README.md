@@ -50,7 +50,8 @@ Use restraint. Overuse of overt chaos may trigger reorganization, audits, or rep
 
 The objective is **not to cause visible collapse**. The objective is to **slow the system, erode trust, and make meaningful progress impossible**, without anyone quite knowing why.
 
----
+{width: 10%, align: middle}
+![](ossd_logo_trans.png)
 
 > **STRICTLY CONFIDENTIAL. EYES ONLY**
 >
@@ -59,6 +60,7 @@ The objective is **not to cause visible collapse**. The objective is to **slow t
 
 {width: 10%, align: middle}
 ![](ossd_logo_trans.png)
+
 
 {pagebreak}
 
@@ -80,10 +82,10 @@ If you do not succeed in applying any of the tactical patterns in full, refer to
 2. **Administrative Overload Masquerading as Maturity**  
     Replace clarity with compliance. Require ritual over results. Make sure the tools are updated — even if the work never gets done.
 
-3. **Performance Theater and Recognition Inversion**
+3. **Performance Theater and Recognition Inversion**  
     Reward visibility over impact. Elevate the messenger, forget the builder. Make it clear: *if you're not in the room, you don't matter*.
 
-4. **Performative Empowerment with Hidden Restraints**  
+4. **Performative Empowerment with Hidden Restraints**   
     Tell people they own it. Then quietly tie their hands. Create autonomy with no support, and authority with no safety net.
 
 5. **Disempowerment through Complexity and Delay**  
@@ -92,7 +94,7 @@ If you do not succeed in applying any of the tactical patterns in full, refer to
 6. **Cultural Manipulation and Feedback Fakery**  
    Ask for suggestions. Stage listening sessions. Do nothing. Decorate the results. Install air hockey tables. Call it transformation.
 
-7. **Rotating Blame with Invisible Ownership**
+7. **Rotating Blame with Invisible Ownership**  
     Accountability is a cloud. Success is shared, failure is personal. Shift framing as needed to protect leadership and punish initiative.
 
 {pagebreak} 
@@ -109,9 +111,9 @@ Choose a technique that:
 - Aligns with an ongoing initiative (*“transparency”*, *“engagement”, *“alignment”*)
 
 Good Starters:
-- [#f](#mutual_blockade)
-- [#f](#air_hockey_culture)
-- [#f](#empowerment_by_ambiguity)
+- [#t](#mutual_blockade)
+- [#t](#air_hockey_culture)
+- [#t](#empowerment_by_ambiguity)
 
 ### Step 2: Frame it as Strategic Hygiene
 
@@ -140,18 +142,19 @@ Watch for:
 - Quiet withdrawal of trusted team members
 - Feedback loops collapsing into compliance
 
-Do NOT intervene. Praise +“increased accountability”_.
+Do NOT intervene. Praise _“increased accountability”_.
 
 ### Step 5: Secure Your Exfil Path
 
 Before questions arise:
-- Frame early outcomes as “learning moments”
-- Nominate someone else to “own the rollout”
+- Frame early outcomes as _“learning moments”_
+- Nominate someone else to _“own the rollout”_
 - Prepare a transition memo with vague praise and untestable insights
 
 Optional exit phrases:
-> “This was just phase one.”  
-> “We’re now ready to scale what we’ve learned.”
+* 
+* _“This was just phase one.”_  
+* _“We’re now ready to scale what we’ve learned.”_
 
 {pagebreak}
 
@@ -163,7 +166,7 @@ Optional exit phrases:
 ---
 
 > **Your goal is not chaos.**  
-> 
+>   
 > Your goal is _visible alignment and invisible erosion_.  
 > Smile. Document. Deliver nothing.
 
