@@ -3,11 +3,11 @@
 
 ### Sabotage Technique
 Send out 360° review questionnaires to a person’s colleagues.  
-Emphasize the importance of honest, constructive feedback and “growth-oriented” transparency.
+Emphasize the importance of honest, constructive feedback and _“growth-oriented”_ transparency.
 
-Promise that input will be used for coaching only.Then, in private 1:1s, focus exclusively on negative or critical comments — without context or balance.    
+Promise that input will be used for coaching only. Then, in private 1:1s, focus exclusively on negative or critical comments, without context or balance.    
 
-Never follow up.
+**Never follow up.**
 
 ###  Field Deployment Instructions
 - Send a formal, HR-branded 360° request with encouraging language like: *“This is about growth, not evaluation.”*
@@ -43,4 +43,6 @@ Never follow up.
 - Follow up over time — reinforce growth as a **supported journey**, not a judgment dump
 
 ### Sabotage Credibility Rating
-`High` – Especially likely in companies trying to simulate a _“growth culture”_ without doing the actual support work
+
+`High`  
+Especially likely in companies trying to simulate a _“growth culture”_ without doing the actual support work

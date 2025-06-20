@@ -1,11 +1,11 @@
 ## Thread Drift
 
 ### Sabotage Technique
-Hijack active message threads by subtly shifting the topic.  
+Hijack active message threads by subtly **shifting the topic**.  
 Reply to email chains with tangents.  
-Inject *“related concerns”* into Slack threads or comment chains.  
+Inject _“related concerns”_ into Slack threads or comment chains.  
 Do it politely, do it often.  
-Frame it as __“connecting the dots”.__
+Frame it as _“connecting the dots”._
 
 ### Field Deployment Instructions
 - Add loosely related thoughts to existing threads
@@ -26,6 +26,12 @@ Frame it as __“connecting the dots”.__
 - Suggest spinoff conversations, but never start them
 - Frame it all as *“zooming out”*
 
+### Detection Clues
+
+- _“I thought we were discussing X, but now it’s about Y?”_
+- _"It was mentioned in some email thread, let me dig it up."_
+- _"Euhm. I thought this was about the project status? Why are we discussing the budget?"_
+
 ### Countermeasures
 - Declare thread purpose up front (e.g. `[DECISION]`, `[FYI]`, `[ACTION]`)
 - Create a culture of redirecting -- *“good point, new thread?”*
@@ -34,4 +40,5 @@ Frame it as __“connecting the dots”.__
 
 ### Sabotage Credibility Rating
 
-`High` – Extremely common in flat teams or “thinking out loud” cultures
+`High`  
+Extremely common in _"flat"_ teams or _“thinking aloud”_ cultures.

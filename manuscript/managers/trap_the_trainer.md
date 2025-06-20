@@ -40,4 +40,6 @@ Meanwhile, **deny or indefinitely defer** any change-of-role or growth request f
 - Track how often people in _“stability roles”_ are given forward options
 
 ### Sabotage Credibility Rating
-`High` – Especially common in teams with legacy experts, low turnover, or invisible glue work
+
+`High`  
+Especially common in teams with legacy experts, low turnover, or invisible glue work.

@@ -55,4 +55,3 @@ managers/ignore_the_plan.md
 OUTRO.md
 managers/TACTICAL_COMBINATIONS.md
 managers/NOTABLE_SABOTAGES.md
-managers/NEGATE_COUNTERMEASURES.md

@@ -1,5 +1,4 @@
 {mainmatter}
-{sample: true}
 # Management-Level Techniques for Systemic Disruption and Psychological Erosion
 
 The objective of this manual is to instruct you - the embedded agent - in the subtle, sustained sabotage of modern corporate organizations from within. You will learn to employ techniques that erode trust, disrupt processes, and create confusion without ever appearing unprofessional or overtly malicious.
@@ -46,7 +45,8 @@ Use restraint. Overuse of overt chaos may trigger reorganization, audits, or rep
 - Boring
 - Justified
 - Accompanied by a slidedeck
-- Reinforced by someone saying _“this is how serious companies do it”_
+- Saying _“this is how serious companies do it”_
+- Indistinguishable from normal management practices
 
 The objective is **not to cause visible collapse**. The objective is to **slow the system, erode trust, and make meaningful progress impossible**, without anyone quite knowing why.
 
@@ -69,6 +69,20 @@ The objective is **not to cause visible collapse**. The objective is to **slow t
 The sabotage techniques within this manual may be deployed individually, but maximum effectiveness is achieved through layered disruption. Our actions will have lasting impact if operatives succeed to **imbue a culture where surface alignment hides a collapsing core**.
 
 The tactics contained herein are designed to be **self-reinforcing**. Once a few key patterns are in place, they will naturally propagate and amplify each other, creating a **feedback loop of dysfunction** that is difficult to reverse. 
+
+{width: 10%, align: middle}
+![](ossd_logo_trans.png)
+
+This field guide divides sabotage techniques into five main categories, each targeting a specific aspect of organizational health. Use these categories to select the most appropriate techniques for your target organization, striking where it hurts most. 
+
+| Category           | What It Destroys             |
+|--------------------|------------------------------|
+| Trust Erosion      | Psychological safety, morale |
+| Admin Overload     | Flow, clarity, initiative    |
+| Visibility Theater | Meaningful recognition       |
+| Faux Empowerment   | Courage, autonomy            |
+| Fragmentation      | Cross-team coherence         |
+
 
 ## The Seven Pillars of Sabotage
 
@@ -131,9 +145,9 @@ Example:
 - Reference other companies doing something vaguely similar
 - Offer a dashboard, mural, or acronym
 
-Remember:  
-Never say *this will fix things*.  
-Say *this will help us better understand what’s happening.*
+**Remember:**  
+Never say _"this will fix things"_.  
+Say _"this will help us better understand what’s happening"_.
 
 ### Step 4: Monitor for Emergent Decay
 
@@ -142,7 +156,7 @@ Watch for:
 - Quiet withdrawal of trusted team members
 - Feedback loops collapsing into compliance
 
-Do NOT intervene. Praise _“increased accountability”_.
+Do NOT intervene. Praise _"increased accountability"_.
 
 ### Step 5: Secure Your Exfil Path
 
@@ -150,11 +164,14 @@ Before questions arise:
 - Frame early outcomes as _“learning moments”_
 - Nominate someone else to _“own the rollout”_
 - Prepare a transition memo with vague praise and untestable insights
+- Exit gracefully. Host a farewell gathering with cake and a slide deck titled _“Thank You for Your Dedication”_.
+- Leave glowing recommendations for your successor, and other (potential) operatives in the organization.
 
 Optional exit phrases:
-* 
+
 * _“This was just phase one.”_  
-* _“We’re now ready to scale what we’ve learned.”_
+* _“I’m proud of the foundation we’ve built together.”_
+* _"I am excited to see how you all take this forward."_
 
 {pagebreak}
 
@@ -264,11 +281,9 @@ But the truly brilliant operatives leverage the fact that many of these patterns
 > _You don’t build dysfunction.  
 > You amplify what’s already rewarded._
 
-In the right environment, with complicit leadership, you can expect:  
-**6 months** to critical damage.  
-**24 months** to irreversible entropy.
+In the right environment, with complicit leadership, you can expect: **6 months** to critical damage. **24 months** to irreversible entropy.
 
-When done right, nobody notices you were the one holding the matches. They'll ask you to lead the next transformation.
+When done right, nobody notices you held the matches that started the slow burn. They'll ask you to **lead the next transformation**. You will accept, and begin the cycle anew.
 
 ---
 {pagebreak}
@@ -341,10 +356,10 @@ For leaving no fingerprints — only process artifacts,
 
 **Operative SHADOW FERN** has been awarded the  
 
-*Iron Weasel Cross (First Class)*  
+**Iron Weasel Cross (First Class)**  
 
 with distinction in  
-Cultural Misalignment and Procedural Obfuscation.  
+*Cultural Misalignment and Procedural Obfuscation.*  
 
 Be like Fern:   
 _Stay visible. Deliver nothing. Leave with applause._

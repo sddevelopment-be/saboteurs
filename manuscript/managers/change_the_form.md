@@ -31,4 +31,6 @@ Make teams spend their time updating formats instead of improving substance.
 - Ask: *“What behavior does this template change actually support?”*
 
 ### Sabotage Credibility Rating
-`Medium` – Looks harmless, but slowly replaces effectiveness with admin churn
+
+`Medium`  
+Looks harmless, but slowly replaces effectiveness with admin churn.
