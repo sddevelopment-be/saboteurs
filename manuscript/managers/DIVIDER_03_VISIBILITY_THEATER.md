@@ -1,4 +1,4 @@
-
+{sample: true}
 # Visibility Theater & Recognition Games
 
 {aside}
@@ -17,3 +17,5 @@ Create a culture where only visible work is valued, leading to superficial metri
 **Why It Wins:**  
 It fosters a culture where people focus on being seen rather than being effective, leading to burnout and disengagement.
 {/aside}
+
+{sample: false}

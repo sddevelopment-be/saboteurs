@@ -1,5 +1,5 @@
 {pagebreak}
-
+{sample: true}
 # OSSD HIGH COMMAND – CLASSIFIED BRIEFING
 
 {width: 10%, align: middle}

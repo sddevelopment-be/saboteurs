@@ -1,5 +1,4 @@
-{class: part}
-
+{class: part, sample: true}
 # Advanced Tactical Guidance
 
 {width: 70%, align: middle}
@@ -57,21 +56,25 @@ For new agents looking to deploy multiple patterns in concert, we recommend the 
 - Deploy [#t (#n)](#empowerment_by_ambiguity) to create the illusion of autonomy.
 - Immediately follow with [#t (#n)](#rotating_accountability) to ensure no safe ground.
 
+{sample: false}
 #### Step 2: Add Burden, Then Audit It
 
 - Use [#t (#n)](#track_and_trash) and [#t (#n)](#track_all_allign_nothing) to overwhelm teams with conflicting systems.
 - Mandate historical data migration and manual syncing across tools.
 
+{sample: false}
 #### Step 3: Hold a Listening Campaign
 
 - Activate [#t (#n)](#weaponize_the_360), [#t (#n)](#support_and_ambush), and [#t (#n)](#air_hockey_culture).
 - Solicit emotional labor. Deliver furniture.
 
+{sample: false}
 #### Step 4: Celebrate the Wrong People
 
 - Promote [#t (#n)](#promote_paperclip_closer), [#t (#n)](#crisis_over_prevention), and [#t (#n)](#trap_the_trainer).
 - Equate visibility with value. Let the invisible carry the load.
 
+- {sample: false}
 #### Step 5: Divide and Dilute
 
 - Finish with [#t (#n)](#divide_and_distract) and [#t (#n)](#man_in_the_middle).

@@ -1,4 +1,4 @@
-
+{sample: true}
 # Structural Fragmentation & Cross-Team Chaos
 
 {aside}
@@ -17,3 +17,5 @@ Create a culture of fragmentation where teams are isolated, leading to chaos and
 **Why It Wins:**  
 It fosters an environment where teams are so focused on their own silos that they forget they are part of a larger organization, leading to chaos and inefficiency.
 {/aside}
+
+{sample: false}

@@ -1,3 +1,4 @@
+{sample: true}
 # Trust Erosion & Psychological Undermining
 
 {aside}
@@ -17,4 +18,5 @@ Create an environment where trust erodes through subtle manipulation, leading to
 It turns teams against each other, fostering an environment of suspicion and self-doubt, which is the perfect breeding ground for systemic dysfunction.
 {/aside}
 
+{sample: false}
 

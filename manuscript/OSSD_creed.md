@@ -1,3 +1,4 @@
+{sample: true}
 # The OSSD Division Creed
 
 **Office of Strategic Systemic Decay**  

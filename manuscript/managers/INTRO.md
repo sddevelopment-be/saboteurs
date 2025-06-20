@@ -3,7 +3,7 @@
 <!--                   CLASSIFIED FIELD MANUAL              -->
 <!-- ======================================================= -->
 
-{class: part}
+{class: part, sample: true}
 # CLASSIFIED FIELD MANUAL
 
 {width: 70%, align: middle}
@@ -12,6 +12,7 @@
 > **“The best sabotage is indistinguishable from strategy.”**
 > -- Directive 12, Subsection C, OSSD Archives
 
+{sample: true}
 # CORPORATE SABOTAGE FIELD GUIDE
 
 {width: 10%, align: middle}

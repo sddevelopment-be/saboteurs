@@ -1,4 +1,4 @@
-{#feedback-whiplash}
+{#feedback-whiplash, sample:true}
 ## Feedback Whiplash
 
 ### Sabotage Technique

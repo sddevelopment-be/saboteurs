@@ -1,4 +1,4 @@
-{#track_and_trash}
+{#track_and_trash, sample:true}
 ## Track It All. Then Ask for Email.
 
 ### Sabotage Technique

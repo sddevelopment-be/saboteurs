@@ -1,4 +1,4 @@
-{#support_and_ambush}
+{#support_and_ambush, sample:true}
 ## Promise Support, Deliver Ambush
 
 ### Sabotage Technique

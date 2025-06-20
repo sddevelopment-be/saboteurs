@@ -1,4 +1,4 @@
-
+{sample: true}
 # Administrative Overload & Process Churn
 
 > “Stability is the camouflage of entropy.”  
@@ -20,3 +20,5 @@ Create a culture of excessive tracking, reporting, and process adherence that di
 **Why It Wins:**  
 It creates a culture where people spend more time justifying their existence than delivering value, leading to burnout and disengagement.
 {/aside}
+
+{sample: false}

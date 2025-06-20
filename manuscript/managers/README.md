@@ -1,4 +1,5 @@
 {mainmatter}
+{sample: true}
 # Management-Level Techniques for Systemic Disruption and Psychological Erosion
 
 The objective of this manual is to instruct you - the embedded agent - in the subtle, sustained sabotage of modern corporate organizations from within. You will learn to employ techniques that erode trust, disrupt processes, and create confusion without ever appearing unprofessional or overtly malicious.

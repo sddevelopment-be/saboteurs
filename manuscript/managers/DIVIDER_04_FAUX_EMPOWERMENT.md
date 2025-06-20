@@ -1,4 +1,4 @@
-
+{sample: true}
 # Empowerment as a Weapon
 
 {aside}
@@ -19,3 +19,4 @@ Offer mentorship and empowerment. Then, when they take initiative, criticize the
 It creates a culture of **conditional autonomy** where people fear taking initiative.
 {/aside}
 
+{sample: false}
