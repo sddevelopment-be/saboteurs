@@ -113,9 +113,9 @@ The combinations are designed as "one-two punch" or simple "one-two-three" strat
 
 **Target:** Up-and-coming individuals. Lock them in place while smiling.
 
-* ['Trap the Trainer'](trap_the_trainer.md) → Make them responsible for knowledge transfer -- forever.
-* ['Rotating Accountability Cloak'](rotating_accountability.md) → Shift blame depending on what’s needed.
-* ['Promise Support, Deliver Ambush'](#support_and_ambush) → Give them stretch goals, then vanish.
+* [#t, see #n](#trap_the_trainer) → Make them responsible for knowledge transfer -- forever.
+* [#t, see #n](#rotating_accountability) → Shift blame depending on what’s needed.
+* [#t, see #n](#support_and_ambush) → Give them stretch goals, then vanish.
 
 **Outcome:** They can’t say no. They’re always the fallback. And they stop growing -- while being told they’re vital.
 
@@ -123,9 +123,9 @@ The combinations are designed as "one-two punch" or simple "one-two-three" strat
 
 **Target:** Teams trying to improve. Break their trust in feedback itself.
 
-* ['Weaponize the 360'](weaponize_the_360.md) → Collect feedback, promise coaching, focus only on flaws.
-* ['Feedback Whiplash'](feedback_whiplash.md) → Criticize people for over-correcting six months later.
-* ['Celebrate Misalignment as Diversity of Thought'](celebrate_missalignment.md) → Frame conflicting views as proof that “truth is subjective.”
+* [#t, see #n](#weaponize_the_360) → Collect feedback, promise coaching, focus only on flaws.
+* [#t, see #n](#feedback-whiplash) → Criticize people for over-correcting six months later.
+* [#t, see #n](#celebrate_misalignment) → Frame conflicting views as proof that “truth is subjective.”
 
 **Outcome:** Teams either go silent, or spend weeks over-analyzing feedback instead of improving.
 
@@ -133,9 +133,9 @@ The combinations are designed as "one-two punch" or simple "one-two-three" strat
 
 **Target:** Team-of-teams initiatives. Undermine trust invisibly.
 
-* ['Divide and Distract'](divide_and_distract.md) → Assign overlapping responsibilities to multiple teams.
-* ['The Organizational Man-in-the-Middle'](man_in_the_middle.md) → Force routing of decisions through someone outside the domain.
-* ['Celebrate Misalignment as Diversity of Thought'](celebrate_missalignment.md) → Celebrate how “aligned” everyone is -- then pivot without warning.
+* [#t, see #n](#divide_and_distract) → Assign overlapping responsibilities to multiple teams.
+* [#t, see #n](#man_in_the_middle) → Force routing of decisions through someone outside the domain.
+* [#t, see #n](#celebrate_misalignment) → Celebrate how “aligned” everyone is -- then pivot without warning.
 
 **Outcome:** No one trusts cross-team promises. Every alignment becomes performative.
 
@@ -143,9 +143,9 @@ The combinations are designed as "one-two punch" or simple "one-two-three" strat
 
 **Target:** Strategic leaders. Trap them in slides and cycles.
 
-* ['Do Everything Now, But Strategically'](do_it_now_but_strategically.md) → Push every initiative forward at once.
-* ['No Surprises! Culture'](no_surprises.md) → Penalize early risk raising.
-* ['Track It All. Then Ask for Email.'](track_it_all_then_trash_it.md) → Build tracking overhead that consumes all thinking time.
+* [#t, see #n](#do_it_now_but_strategically) → Push every initiative forward at once.
+* [#t, see #n](#no_surprises) → Penalize early risk raising.
+* [#t, see #n](#track_and_trash) → Build tracking overhead that consumes all thinking time.
 
 **Outcome:** Strategy becomes a calendar exercise. Nothing finishes. But everything is visible.
 
@@ -153,8 +153,9 @@ The combinations are designed as "one-two punch" or simple "one-two-three" strat
 
 **Target:** Cross-functional teams. Break their cohesion.
 
-* ['Entangle the Critical Path'](entangle_the_critical_path.md) → Involve multiple teams in every delivery, with no clear ownership.
-* ['Reassign in the Shadows](shadow_reassignment.md)→ Assign overlapping responsibilities to create confusion.
-* ['Divide and Distract'](divide_and_distract.md) → Assign people to multiple teams with conflicting goals.
+* [#t, see #n](#critical_path_entanglement) → Involve multiple teams in every delivery, with no clear ownership.
+* [#t, see #n](#reassign_in_the_shadows)→ Assign overlapping responsibilities to create confusion.
+* [#t, see #n](#divide_and_distract) → Assign people to multiple teams with conflicting goals.
 
 **Outcome:** Teams become fragmented. No one knows who owns what. Delivery stalls.
+

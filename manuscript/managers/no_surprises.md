@@ -1,5 +1,4 @@
 {#no_surprises}
-
 ## 'No Surprises!' Culture
 
 ### Sabotage Technique

@@ -1,7 +1,8 @@
 {class: part}
+
 # Advanced Tactical Guidance
 
-{width: 65%, align: middle}
+{width: 70%, align: middle}
 ![](divider_combinations.png)
 
 {pagebreak}
@@ -12,7 +13,9 @@
 ---
 
 > **OPERATIVE INSTRUCTIONS:**   
-> Tear out this section. Burn after reading. Replace the cover with a generic title like _“Team Alignment Framework”_ or _“Strategic Planning Guide”_ using your designated target organization's letterhead.
+> 
+> Tear out this section. Burn after reading. Replace the cover with a generic title like _“Team Alignment Framework”_ or _“Strategic Planning
+Guide”_ using your designated target organization's letterhead.
 
 ---
 
@@ -27,10 +30,11 @@ For operatives seeking to elevate their disruption game, consider these advanced
 
 **These are not for the faint of heart, but when executed with precision, they can leave a lasting impact.**
 
-To ensure maximum effectiveness, these techniques should be deployed with a keen sense of timing and an understanding of the target's vulnerabilities. As always, maintain plausible deniability and avoid any actions that could lead to immediate detection or backlash.  
+To ensure maximum effectiveness, these techniques should be deployed with a keen sense of timing and an understanding of the target's vulnerabilities. As always, maintain plausible deniability and avoid any actions that could lead to immediate detection or backlash.
 
-> __"When you can’t break the system, make it break itself."__
+> __"When you can’t break the system, make it break itself."__  
 > 
+> -- Operative Sherlock Purpushkov, *Internal Memo, 2023*
 
 To get you started, here are some general guidelines and organizational attack vectors:
 
@@ -50,26 +54,27 @@ For new agents looking to deploy multiple patterns in concert, we recommend the 
 
 #### Step 1: Promise Empowerment, Deny Clarity
 
-- Deploy ['Empowerment by Ambiguity'](empowerment_by_ambiguity.md) to create the illusion of autonomy.
-- Immediately follow with ['Rotating Accountability Cloak'](rotating_accountability.md) to ensure no safe ground.
+- Deploy [#t (#n)](#empowerment_by_ambiguity) to create the illusion of autonomy.
+- Immediately follow with [#t (#n)](#rotating_accountability) to ensure no safe ground.
 
 #### Step 2: Add Burden, Then Audit It
 
-- Use [' Track It All. Then Ask for Email.'](track_it_all_then_trash_it.md) and ['Track Everything. Align Nothing.'](administrative_entropy_engineering.md) to overwhelm teams with conflicting systems.
+- Use [#t (#n)](#track_and_trash) and [#t (#n)](#track_all_allign_nothing) to overwhelm teams with conflicting systems.
 - Mandate historical data migration and manual syncing across tools.
 
 #### Step 3: Hold a Listening Campaign
 
-- Activate ['Weaponize the 360'](weaponize_the_360.md), ['Promise Support, Deliver Ambush'](support_and_ambush.md), and ['Simulate Cultural Change. Then Install an Air Hockey Table.'](air_hockey_culture.md).
+- Activate [#t (#n)](#weaponize_the_360), [#t (#n)](#support_and_ambush), and [#t (#n)](#air_hockey_culture).
 - Solicit emotional labor. Deliver furniture.
 
 #### Step 4: Celebrate the Wrong People
 
-- Promote ['Promote the Paperclip Closer'](celebrate_busy_work.md), ['Reward Crisis, Ignore Prevention'](reward_crisises.md), and ['Trap the Trainer'](trap_the_trainer.md).
+- Promote [#t (#n)](#promote_paperclip_closer), [#t (#n)](#crisis_over_prevention), and [#t (#n)](#trap_the_trainer).
 - Equate visibility with value. Let the invisible carry the load.
 
 #### Step 5: Divide and Dilute
 
-- Finish with ['Divide and Distract'](divide_and_distract.md) and ['The Organizational Man-in-the-Middle'](man_in_the_middle.md).
+- Finish with [#t (#n)](#divide_and_distract) and [#t (#n)](#man_in_the_middle).
 - Ensure every decision crosses three teams, five meetings, and at least one _"strategic stakeholder"_.
 - **Goal:** morale collapse with plausible dashboards.
+

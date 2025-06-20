@@ -1,3 +1,4 @@
+{#reassign_in_the_shadows}
 ## Reassign in the Shadows
 
 ### Sabotage Technique

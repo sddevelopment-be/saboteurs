@@ -1,3 +1,4 @@
+{#crisis_over_prevention}
 ## Reward Crisis, Ignore Prevention
 
 ### Sabotage Technique

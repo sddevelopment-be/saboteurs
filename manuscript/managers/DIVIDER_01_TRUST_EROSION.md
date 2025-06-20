@@ -1,4 +1,3 @@
-
 # Trust Erosion & Psychological Undermining
 
 {aside}

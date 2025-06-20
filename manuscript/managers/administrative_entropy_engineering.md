@@ -1,3 +1,4 @@
+{#track_all_allign_nothing}
 ## Track Everything. Align Nothing.
 
 ### Sabotage Technique
