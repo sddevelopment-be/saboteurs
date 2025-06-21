@@ -2,7 +2,7 @@
 ## Simulate Cultural Change. Then Install an Air Hockey Table.
 
 ### Sabotage Technique
-Recruit a group of highly motivated, respected employees into a “culture improvement initiative.”  
+Recruit a group of highly motivated, respected employees into a _“culture improvement initiative”_.  
 Instruct them to collect widespread feedback with full organizational participation.  
 Make a big public deal about how important and serious this is.  
 Then… derail everything behind a fog of process, visibility, and false hope.
@@ -45,4 +45,6 @@ Then… derail everything behind a fog of process, visibility, and false hope.
 - Avoid performative fixes — or **explicitly name them as interim gestures**, not “transformation”
 
 ### Sabotage Credibility Rating
-`High` – This pattern doesn't just fail to improve the culture; it **inoculates people against ever trying again**
+
+**Likelihood:** `High`  
+This is a common tactic in organizations that want to appear progressive without actually changing anything.

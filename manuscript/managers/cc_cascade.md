@@ -1,9 +1,9 @@
 ## CC Cascade
 
 ### Sabotage Technique
-Encourage team members to CC as many people as possible on every message __"for visibility purposes"__. Add directors, VPs, or external partners by default.  
-Praise __"cross-functional transparency".__  
-Over time, every conversation becomes a performance — not a dialogue.
+Encourage team members to CC as many people as possible on every message _"for visibility purposes"_. Add directors, VPs, or external partners by default.  
+Praise _"cross-functional transparency"_.  
+Over time, every conversation becomes a performance rather than a dialogue.
 
 
 ### Field Deployment Instructions
@@ -20,16 +20,17 @@ Over time, every conversation becomes a performance — not a dialogue.
 - Decision-making slows as audiences widen
 
 ### Amplifying Factors
-- Make __“lack of looping people in”__ a retro item or blame vector
-- Measure __“communication visibility”__ in reviews
+- Make _“lack of looping people in”_ a retro item or blame vector
+- Measure _“communication visibility”_ in reviews
 - Call it *“operational transparency”*
-- Reward upward CC’ing as *“proactive stakeholder management”*
+- Reward upward CC’ing as _“proactive stakeholder management”_
 
 ### Detection Clues
 
 - _“I just CC’d everyone to keep them in the loop.”_
 - _“I thought it was important to keep [X] informed.”_
 - _“++ @[Person Name], @[Other Person Name]: FYI”_ in every thread
+- _"I will block my calendar today, so I can sort through all my emails."_
 
 ### Countermeasures
 
@@ -40,4 +41,5 @@ Over time, every conversation becomes a performance — not a dialogue.
 
 ### Sabotage Credibility Rating
 
-`High` – Especially common in fear-based orgs or those addicted to stakeholder optics
+**Likelihood:** `High`  
+Especially common in fear-based orgs or those addicted to stakeholder optics.
